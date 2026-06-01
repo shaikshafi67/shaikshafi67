@@ -1,16 +1,103 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_wave.gif" width="100%" />
 
-<!--
-**shaikshafi67/shaikshafi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shaik+Shafi+👋;Flutter+%26+Web+Developer;Building+Cool+Apps+%26+Websites;Content+Creator+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaikshafi67&label=Profile%20views&color=0e75b6&style=flat" alt="shaikshafi67" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Shaik Shafi**, a passionate **Flutter & Web Developer** from India 🇮🇳. As a fresher stepping into the tech world, I love crafting beautiful mobile and web experiences. I'm also a content creator sharing tech tutorials and insights on YouTube.
+
+- 🔭 I'm currently working on **Flutter apps & Web projects**
+- 🌱 I'm currently learning **Advanced Flutter, Firebase & Backend development**
+- 📺 I create tech content on [YouTube](https://www.youtube.com/@ShafiSolutions) — check it out!
+- 🤝 I'm open to **collaborations, freelance projects & open source contributions**
+- 💬 Ask me about **Flutter, Dart, HTML, CSS, JavaScript, Python, Firebase**
+- 📫 How to reach me: **shaikshafi6288@gmail.com**
+- 🌐 Portfolio: [shaikshafi.in](https://shaikshafi.in)
+- ⚡ Fun fact: I debug with `print()` and I'm proud of it 😄
+- 🎯 My motto: *"Code it. Ship it. Share it."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚙️ Backend & Database
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikshafi67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaik Shafi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshafi67&theme=tokyonight&hide_border=true" alt="Shaik Shafi's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshafi67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaikshafi67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📱 Social Media & Content
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShafiSolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-shafi6677)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaikshafi.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shaikshafi.in)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations, and new opportunities!
+
+📺 **YouTube** → [ShafiSolutions](https://www.youtube.com/@ShafiSolutions) — Flutter & Web tutorials  
+💼 **LinkedIn** → [shaik-shafi6677](https://www.linkedin.com/in/shaik-shafi6677) — Let's network  
+📸 **Instagram** → [@shaikshafi.in](https://instagram.com/shaikshafi.in) — Behind the scenes  
+🌐 **Portfolio** → [shaikshafi.in](https://shaikshafi.in) — My work  
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ If you find my work helpful, give it a star — it means a lot! ⭐</i>
+  <br/><br/>
+  <b>"First, solve the problem. Then, write the code." — John Johnson</b>
+</div>
