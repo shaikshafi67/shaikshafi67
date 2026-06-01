@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_wave.gif" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaik%20Shafi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20%26%20Web%20Developer%20%7C%20Content%20Creator&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shaik+Shafi+👋;Flutter+%26+Web+Developer;Building+Cool+Apps+%26+Websites;Content+Creator+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shaik+Shafi+%F0%9F%91%8B;Flutter+%26+Web+Developer;Building+Cool+Apps+%26+Websites;Content+Creator+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -50,12 +52,12 @@ I'm **Shaik Shafi**, a passionate **Flutter & Web Developer** from India 🇮�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikshafi67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaik Shafi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshafi67&theme=tokyonight&hide_border=true" alt="Shaik Shafi's GitHub Streak" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaikshafi67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshafi67&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshafi67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshafi67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -63,7 +65,7 @@ I'm **Shaik Shafi**, a passionate **Flutter & Web Developer** from India 🇮�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikshafi67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shaikshafi67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -75,7 +77,7 @@ I'm **Shaik Shafi**, a passionate **Flutter & Web Developer** from India 🇮�
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShafiSolutions)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-shafi6677)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaikshafi.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shaikshafi.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://shaikshafi.in)
 
 </div>
 
@@ -95,6 +97,10 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   <i>⭐ If you find my work helpful, give it a star — it means a lot! ⭐</i>
