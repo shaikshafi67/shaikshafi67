@@ -64,20 +64,7 @@ I'm **Shaik Shafi**, a passionate **Flutter & Web Developer** from India 🇮�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.demolab.com/api?username=shaikshafi67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshafi67&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=shaikshafi67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikshafi67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
