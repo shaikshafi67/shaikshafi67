@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaik%20Shafi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20%26%20Web%20Developer%20%7C%20Content%20Creator&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Shaik+Shafi+%F0%9F%91%8B;Flutter+%26+Web+Developer;Building+Cool+Apps+%26+Websites;Content+Creator+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
